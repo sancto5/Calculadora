@@ -9,15 +9,15 @@
 }
 
 #container strong {
-  font-size: 20px;
+  font-size: 32px;
   line-height: 26px;
 }
 
 #container p {
-  font-size: 16px;
-  line-height: 22px;
+  font-size: 64px;
+  line-height: 64px;
 
-  color: #8c8c8c;
+  color: #f70000;
 
   margin: 0;
 }
@@ -28,10 +28,6 @@ container a {
 
 h1, h3 {
   text-align: right;
-  padding-right: 10%;
-}
-
-.digitos {
-  background-color: #343434;
-  border: none;
+  padding-right: 5%;
+  font-size: 64px;
 }
